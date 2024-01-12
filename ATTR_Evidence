@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Evidence of making a link -->
+    <!-- <h1>
+    <a href="https://www.youtube.com/channel/UCkugIIAHIUny3tcKz9gAxOw">T00NYBOY's YouTube Channel</a>
+    </h1> -->
+
+    <!-- Evidence of making a link that opens in a new tab -->
+    <!-- <h1>
+        <a href="https://www.youtube.com/channel/UCkugIIAHIUny3tcKz9gAxOw" target="_blank">T00NYBOY's YouTube Channel</a>
+    </h1> -->
+
+<!-- Evidence of making alternate text in place of an image in situations where image is not found 
+    <img src="Me smiling with tea Black and White.jpeg" alt="Picure of T00NYBOY holding mug of tea"> -->
+
+    <!-- Evidence of attaching a link to an image
+        <a href="Me smiling with tea Black and White.jpeg">
+        <img src="Me smiling with tea Black and White.jpeg"></img>
+    </a> -->
+
+<!-- Evidence of assigning width and height values to an image
+    <img src="Me smiling with tea Black and White.jpeg" Width="400px" Height="250px"> -->
+
+    
+
+</body>
+</html>
